@@ -335,7 +335,7 @@ sidebar:
     blogger:
       class: blogger
       display: [desktop, mobile] # [desktop, mobile]
-      avatar: /images/background/mycat.jpg
+      avatar: /images/mycat.jpg
       shape: rectangle # circle, rectangle
       url: /about/
       title: 我的猫
@@ -558,8 +558,10 @@ plugins:
     duration: 5000       # Duration (ms)
     fade: 1500            # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-      - ./images/background/mycat.jpg
-      - https://cdn.jsdelivr.net/gh/volantis-x/cdn-wallpaper-minimalist/2020/002.jpg
+      - ./images/background/IMG_20210102_112724.jpg
+      - ./images/background/faceu_20180810120951.jpg
+      - ./images/background/IMG_20190211_141619.jpg
+      - ./images/background/IMG_20201121_115933_HHT.jpg
 
   # APlayer is only available in mainland China.
   # APlayer config: https://github.com/metowolf/MetingJS

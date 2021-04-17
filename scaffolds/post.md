@@ -1,14 +1,13 @@
 ---
 title: {{ title }}
+categories:
+  - [路程, 转折点]
+  - [日常, 游玩]
+headimg: 1579189836278.jpg
+pin: false
 tags:
   - 标签1
   - 标签2
-  - 标签3
-headimg: 1579189836278.jpg
-pin: false
-categories:
-  - [狗子, 喵]
-  - [饲养员, emmm]
 date: {{ date }}
 updated: {{ date }}
 description: 文字摘要
